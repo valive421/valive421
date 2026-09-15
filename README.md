@@ -1,4 +1,4 @@
-# Vaibhav Avhad (valive421)
+# Vaibhav (valive421)
 
 Full‑stack developer (React, Node.js) + Django | React Native | ML/DS | Systems programming (C/OS)  
 Based in Mumbai / Vadodara (India)
